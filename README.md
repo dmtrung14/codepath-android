@@ -21,11 +21,12 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![untitled](https://user-images.githubusercontent.com/60612625/210731707-e04012f5-789b-4427-a913-4f0fc0c2909c.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60612625/210732662-eb97ed90-3de7-4771-a03a-d6e3dedc820b.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Android Studio Code Video Recorder 
+GIF created with Android Studio Code Video Recorder and resized with EZGif.com
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

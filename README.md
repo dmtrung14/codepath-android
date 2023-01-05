@@ -1,10 +1,10 @@
-# Android Prework - *Name of App Here*
+# Android Prework - *Squirrel In My App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Trung Dang**
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Squirrel In My App** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -39,7 +39,7 @@ Made with API 23 but will also (preferably) render on API 33 using Tiramisu imag
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Trung Dang
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

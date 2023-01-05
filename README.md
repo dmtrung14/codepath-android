@@ -16,7 +16,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Personalized Name is underway!
+* [ ] Other backgrounds is underway!
 
 ## Video Walkthrough
 
@@ -34,7 +35,7 @@ GIF created with Android Studio Code Video Recorder and resized with EZGif.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Made with API 23 but will also (preferably) render on API 33 using Tiramisu image file.
 
 ## License
 
